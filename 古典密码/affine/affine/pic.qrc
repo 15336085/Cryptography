@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>66.png</file>
+        <file>back.png</file>
+        <file>加密.png</file>
+        <file>加密30.png</file>
+        <file>解密30.png</file>
+        <file>150811303640115.png</file>
+    </qresource>
+</RCC>
